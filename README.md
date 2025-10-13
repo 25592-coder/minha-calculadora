@@ -7,7 +7,7 @@ Este é um projeto simples de calculadora desenvolvido em Python como um exercí
 ## Funcionalidades Atuais
 
 O ficheiro `calc.py` contém as seguintes operações matemáticas básicas:
-
+hhhh
 <<<<<<< HEAD
 * **Soma:** `soma(a, b)`
 * **Subtração:** `subtração(a, b)`
