@@ -11,7 +11,7 @@ def multiplicação(a, b):
 
 def divisão(a, b):
     if b == 0:
-        return None
+        return "Erro: Divisão por zero não é permitida!"
     return a / b
 
 if __name__ == "__main__":
