@@ -11,7 +11,7 @@ def multiplicação(a, b):
 
 def divisão(a, b):
     if b == 0:
-        return "Erro: Divisão por zero não é permitida!"
+        return "Divisão por 0:  Operação inválida."
     return a / b
 
 def percentagem(a, b):
