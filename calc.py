@@ -14,6 +14,10 @@ def divisão(a, b):
         return "Erro: Divisão por zero não é permitida!"
     return a / b
 
+def percentagem(a, b):
+    if b == 0:
+        return "Erro: O valor total (b) não pode ser zero"
+    return (a / b) * 100
 if __name__ == "__main__":
     num1 = 10
     num2 = 5
